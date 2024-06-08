@@ -3,7 +3,7 @@ title: 'Hidden Parameter Recurrent State Space Models For Changing Dynamics Scen
 collection: publications
 permalink: /publication/hiprssm
 date: 2022-06-29
-venue: 'International Conference on Learning Representations (ICLR)'
+venue: 'International Conference on Learning Representations (ICLR 2022)'
 authors: 'Vaisakh Shaj Kumar, D Büchler, R Sonker, <b>Philipp Becker</b>, Gerhard Neumann'
 paperurl: 'https://arxiv.org/pdf/2206.14697'
 codeurl: 'https://github.com/ALRhub/HiP-RSSM'
