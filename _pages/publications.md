@@ -14,11 +14,13 @@ author_profile: true
 <h3> Test </h3>
 
 {% for post in site.publications reversed %}
+  {% if post.featured %}
   {% include archive-single-publication.html %}
+  {% endif %}
 {% endfor %}
 
 <h3> Test2 </h3>
 
-{% for post in site.publications2 reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single-publication.html %}
 {% endfor %}
