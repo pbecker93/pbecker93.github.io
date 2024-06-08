@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h3> Test </h3>
+<h2> Key Publications </h2>
 
 {% for post in site.publications reversed %}
   {% if post.featured %}
@@ -19,8 +19,10 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h3> Test2 </h3>
+<h2> All Publications </h2>
 
 {% for post in site.publications reversed %}
+  {% unless post.featured %}
   {% include archive-single-publication.html %}
+  {% endunless %}
 {% endfor %}
