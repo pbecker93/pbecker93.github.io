@@ -38,11 +38,11 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
       
-      {% if post.authors %}
-      <p> {{ post.authors }} </p>
-      {% endif %}
-      
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+       
+      <p>
+        {{ post.authors }} <br />
+        Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} 
+      </p>
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}

@@ -51,6 +51,12 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.paperurl and page.codeurl %}
+        <p> <a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.codeurl }}">Code</a></p>
+        {% elsif page.paperurl %}
+        <p>  <a href="{{ page.paperurl }}">Paper</a> </p>
+        {% endif %}
+
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
@@ -65,6 +71,8 @@ layout: default
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+
+
 
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
