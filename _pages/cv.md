@@ -36,6 +36,7 @@ Education
 * Machine Learning Summer School, Virtual (Tübingen, Germany), July 2020
 
 
+<!---
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -60,10 +61,11 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+--->
+<!---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
