@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Philipp Becker"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Philipp Becker"
 description              : &description "personal description"
 url                      : https://pbecker93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Philipp Becker"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography under construction"
+  bio              : "Machine Learning PhD Student working on World Models for Reinforcement Learning"
   location         : "Karlsruhe, Germany"
   employer         : "Karlsruhe Institute of Technology"
   uri              : # URL
