@@ -11,16 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Ph.D in Machine Learning
+*Autonomous Learning Robots @ Karlsruhe Instite of Technology, 2020 - 2025 (expected)*
+* **World modeling** and representation learning for **reinforcement learning** from **multimodal observations**
+* Uncertainty in deep **state space models** for model‑based reinforcement learning and **Bayesian methods**
+* Combining recurrent neural networks and Kalman filters for **uncertainty modeling** in sequential data
+* **Variational inference** for time‑series, meta‑learning, and reinforcement learning
+
+
+### Master of Science in Autonomous Systems (Computer Science)
+*Technische Universität Darmstadt, 2016-2019*
+* with distinction
+* Thesis: Expected Information Maximization: Using the I‑Projection for Mixture Density Estimation
+
+### Bachelor of Science in Computer Science
+*Technische Universität Darmstadt, 2014-2016*
+* Thesis: Learning Deep Feature Spaces for Nonparametric Inference 
+
+### Summer Schools
+* Nordic Probabilistic AI School, Trondheim, Norway, June 2023
+* Machine Learning Summer School, Virtual (Tübingen, Germany), July 2020
+
 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * Github University
@@ -47,18 +64,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
