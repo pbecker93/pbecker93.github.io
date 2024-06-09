@@ -69,7 +69,7 @@ redirect_from:
 * **Deep Learning and Robotics Challenge:** Sorting Lego bricks using a Lego robot controlled by deep learning
 
 
-# Reviewing:
+# Reviewing
 *Machine Learning*
 * Conference on Neural Information Processing Systems (NeurIPS)
 * International Conference on Machine Learning (ICML)
@@ -82,14 +82,14 @@ redirect_from:
 * International Conference on Robotics and Automation (ICRA)
 
 
-# Skills:
+# Skills
 * **Languages:** German (native), English (fluent)
 * **Programming:** Python, Java, C++, C, Matlab
 * **ML Libraries:** Pytorch, Tensorflow, Numpy, Scipy, Optuna, Hydra, Scikit-Learn, Jax
 * **Tools:** Linux, Git, Slurm, LaTeX, Microsoft Office
 * **Robotics:** Mitsubishi PA10, KUKA LBR iiwa, Franka Emika Panda
 
-# Student Supervision:
+# Student Supervision
 I supervised > 20 Bachelor and Master Students during my time at the Karlsruhe Institute of Technology 
 * Ralf Herp - Bachelor Thesis - Diffusion-based Imitation Learning for Contact Rich Manipulation
 * Erwin Müller - Master Thesis - Model-based Reinforcement Learning of Diverse Skills
