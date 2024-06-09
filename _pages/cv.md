@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF](https://pbecker93.github.io/files/cv_philipp_becker.pdf)
+
+
 Education
 ======
 ### Ph.D in Machine Learning
