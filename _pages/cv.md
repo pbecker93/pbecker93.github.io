@@ -12,10 +12,10 @@ redirect_from:
 [Download PDF](https://pbecker93.github.io/files/cv_philipp_becker.pdf)
 
 
-Education
-======
+# Education
+
 ### Ph.D in Machine Learning
-*Autonomous Learning Robots @ Karlsruhe Instite of Technology, 2020 - 2025 (expected)*
+*Autonomous Learning Robots @ Karlsruhe Instite of Technology (KIT), 2020 - 2025 (expected)*
 * **World modeling** and representation learning for **reinforcement learning** from **multimodal observations**
 * Uncertainty in deep **state space models** for model‑based reinforcement learning and **Bayesian methods**
 * Combining recurrent neural networks and Kalman filters for **uncertainty modeling** in sequential data
@@ -36,32 +36,83 @@ Education
 * Machine Learning Summer School, Virtual (Tübingen, Germany), July 2020
 
 
-<!---
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+# Work experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Doctoral Researcher
+*Karlsruhe Institute of Technology (KIT), Autonomous Learning Robots, since 2020*
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
---->
+* Supervision of **25+ student** theses and projects ([Full List](#Student)). 
+* Head **teaching assistant** over 6 semesters for the lecture "Machine Learning - Foundations and Algorithms"
+* Guest **lectures on model-based reinforcement learning** at KIT
+* Setup and administration of **IT infrastructure**, including Slurm-based HPC
+
+
+### Research Scientist
+*FZI Research Center for Information Technology, (FZI Forschungszentrum Informatik), since 2023* 
+* Establishing a **new research group** under the direction of Prof. Gerhard Neumann
+* **Grant writing** for European and German national research calls with **academic** and **industrial** partners.
+* Structured reinforcement learning for control applications of an **industrial customer**
+
+
+### Doctoral Researcher
+*Bosch Center for Artificial Intelligence, Robert-Bosch-GmbH, 2019*
+* Research on versatile imitation learning
+* Followed advisor to KIT after 8 months 
+
+
+### Student Research Assistant
+*Technische Universität Darmstadt, Intelligent Autonomous Systems, 2016-2019*
+* Various **manipulation robotics** projects on **real robots** and in simulation
+
+### Internship
+*Volkswagen Group, Data Lab, 2017*
+* **Deep Learning and Robotics Challenge:** Sorting Lego bricks using a Lego robot controlled by deep learning
+
+
+# Reviewing:
+*Machine Learning*
+* Conference on Neural Information Processing Systems (NeurIPS)
+* International Conference on Machine Learning (ICML)
+* Conference on Robot Learning (CoRL)
+* Reinforcement Learning Conference (RLC)
+
+*Robotics*
+* IEEE Robotics and Automation Letters (RA-L)
+* International Conference on Intelligent Robots and Systems (IROS)
+* International Conference on Robotics and Automation (ICRA)
+
+
+# Skills:
+* **Languages:** German (native), English (fluent)
+* **Programming:** Python, Java, C++, C, Matlab
+* **ML Libraries:** Pytorch, Tensorflow, Numpy, Scipy, Optuna, Hydra, Scikit-Learn, Jax
+* **Tools:** Linux, Git, Slurm, LaTeX, Microsoft Office
+* **Robotics:** Mitsubishi PA10, KUKA LBR iiwa, Franka Emika Panda
+
+# Student Supervision:
+I supervised > 20 Bachelor and Master Students during my time at the Karlsruhe Institute of Technology 
+* Ralf Herp - Bachelor Thesis - Diffusion-based Imitation Learning for Contact Rich Manipulation
+* Erwin Müller - Master Thesis - Model-based Reinforcement Learning of Diverse Skills
+* Keven Sahin - Master Thesis in cooperation with Robert Bosch GmbH - Offline Reinforcement Learning for Hydraulic Excavator Control
+* Sven Hillenkötter - Mester Thesis - Model-Based Reinforcement Learning for Challenging Manipulation Tasks
+* Yasin Tatar - Master Thesis - Investigating the Amortization Gap in Variational Inference for State Space Models
+* Claudius Kienle - Master Thesis in cooperation with ArtiMinds Robotics GmbH - Multimodal Transformer for Zero-Shot Optimization of Robot Manipulation Tasks Across Environments
+* Ruben Jacob - Master Thesis - Episodic Reinforcement Learning with Transformer Models
+* Aina Galofre - Master Thesis - Improving Uncertainty Estimation for Model-Based Reinforcement Learning
+* Christian Schorr - Master Thesis -Improving the Soft Actor-Critic with Information Theoretic Trust Regions
+* Florian Seligmann - Bachelor Thesis \& Research Project - Benchmarking Modern Bayesian Deep Learning Algorithms
+* Stefan Krieg - Bachelor Thesis - Tackling Offline Reinforcement Learning by Model Learning
+* Sebastian Markgraf - Master Thesis - Self-Supervised Model-Based Reinforcement Learning under Partial Observability
+* Maximilian Li - Master Thesis - Imitation Learning for Versatile Robot Manipulation
+* Ahmed Agha - Master Thesis -  Improved Trust Regions for Adversarial Imitation Learning
+* Moritz Reuss - Master Thesis in cooperation with Robert Bosch GmbH - Hybrid Inverse Dynamics Models for Robot Impedance Control
+* Giao Nguyen Quynh - Master Thesis in cooperation with Robert Bosch GmbH -  Kalman Mixture Networks
+* Philipp Dahlinger - Research Project \& Master Thesis - Information Theoretic Trust Regions for Gradient Descent
+* Roman Freiberg - Bachelor Thesis - Actor-Critic Methods for Robotics
+* Niklas Freymuth - Master Thesis - Inverse Reinforcement Learning for Highly-Versatile Behavior
+* Carmen Eitel - Master Thesis - Deep Reinforcement Learning under Partial Observability using Kalman Filtering
+
+
 <!---
 Publications
 ======
