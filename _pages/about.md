@@ -18,7 +18,7 @@ I aim to complete my PhD by Spring 2025 and <b>am currently seeking internship o
 
 <h2> Reserach </h2>
 <p>
-My research focuses on world models for Reinforcement Learning with multi-modal and high-dimensional observations. 
+My research focuses on world models for Reinforcement Learning with multimodal and high-dimensional observations. 
 Here, I combine probabilistic state space models with deep learning to learn dynamics models and concise representations as published in: 
 <ul>
 <li> <a href="https://pbecker93.github.io/publication/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL (<i>RLC 2024</i>) </a></li>
@@ -30,7 +30,7 @@ Here, I combine probabilistic state space models with deep learning to learn dyn
 <p>
 Beyond this, I worked on projects covering a wide range of topics such as  
 <ul>
-<li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behaviour </a>    </li>
+<li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behavior </a>    </li>
 <li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics Modeling for Robotics  </a>  </li>
 <li> <a href="https://pbecker93.github.io/mfrl">Model-Free RL with a focus on Trust Regions  </a>  </li>
 <li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>

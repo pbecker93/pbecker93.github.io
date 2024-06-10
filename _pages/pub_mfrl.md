@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Model Free Reinforcment Learning"
+title: "Model Free Reinforcement Learning"
 permalink: /mfrl/
 author_profile: true
 ---
