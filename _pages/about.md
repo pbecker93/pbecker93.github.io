@@ -13,7 +13,7 @@ I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of 
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
 Furthermore, my academic background includes a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
 
-I aim to complete my PhD by Spring 2025 and **am currently seeking internship opportunities.**
+I aim to complete my PhD by Spring 2025 and <b>am currently seeking internship opportunities.</b>
 </p>
 
 <h2> Reserach </h2>
