@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Philipp Becker (Site still under construction)"
+title: "Philipp Becker"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,8 +8,12 @@ redirect_from:
 ---
 
 <p>
-I am persuing my PhD in Machine Learning at the Karlsruhe Institute of Technology under the supervision of Prof. Gerhanrd Neumann. 
+I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. Simultaneously, I am involved with the FZI Research Center for Information Technology, working towards establishing a new research group under Prof. Neumann's direction.
 
+Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
+Furthermore, my academic background includes a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
+
+I aim to complete my PhD by Spring 2025 and **am currently seeking internship opportunities.**
 </p>
 
 <h2> Reserach </h2>
