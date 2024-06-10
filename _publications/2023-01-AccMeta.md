@@ -3,7 +3,7 @@ title: 'Accurate Bayesian Meta-Learning by Accurate Task Posterior Inference'
 collection: publications
 permalink: /publication/acc_meta
 date: 2023-02-01
-venue: 'International Conference on Learning Representations (ICLR 2023)'
+venue: 'International Conference on Learning Representations (ICLR)'
 authors: 'Michael Volpp, Philipp Dahlinger, <b>Philipp Becker</b>, Christian Daniel, Gerhard Neumann'
 paperurl: 'https://openreview.net/forum?id=sb-IkS8DQw2'
 codeurl: 'https://github.com/pbecker93/vrkn'

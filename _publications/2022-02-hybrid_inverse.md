@@ -3,7 +3,7 @@ title: 'End-to-End Learning of Hybrid Inverse Dynamics Models for Precise and Co
 collection: publications
 permalink: /publication/hybrid_inverse
 date: 2022-05-27
-venue: 'Robotics: Science and Systems (RSS 2022)'
+venue: 'Robotics: Science and Systems (RSS)'
 authors: 'Moritz Reuss, Niels van Duijkeren, Robert Krug, <b>Philipp Becker</b>, Vaisakh Shaj, Gerhard Neumann'
 paperurl: 'https://arxiv.org/abs/2205.13804'
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'

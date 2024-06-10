@@ -11,7 +11,7 @@ redirect_from:
 I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. Simultaneously, I am involved with the FZI Research Center for Information Technology, working towards establishing a new research group under Prof. Neumann's direction.
 
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
-Furthermore, my academic background includes a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
+Furthermore, I have a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
 
 I aim to complete my PhD by Spring 2025 and <b>am currently seeking internship opportunities.</b>
 </p>
