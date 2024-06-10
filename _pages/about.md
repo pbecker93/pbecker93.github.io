@@ -18,12 +18,30 @@ I aim to complete my PhD by Spring 2025 and <b>am currently seeking internship o
 
 <h2> Reserach </h2>
 <p>
-Probablisitc SSMs for World Models for RL + Sometimes Robots?
+My research focuses on world models for Reinforcement Learning with multi-modal and high-dimensional observations. 
+Here, I combine probabilistic state space models with deep learning to learn dynamics models and concise representations as published in: 
+<ul>
+<li> <a href="https://pbecker93.github.io/publication/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL (<i>RLC 2024</i>) </a></li>
+<li> <a href="https://pbecker93.github.io/publication/vrkn">On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning (<i>TMLR 2022</i>)</a> </li>
+<li> <a href="https://pbecker93.github.io/publication/rkn">Recurrent Kalman Networks: Factorized Inference in High-Dimensional Deep Feature Spaces (<i>ICML 2019</i>)</a> </li>
+</ul>
 </p>
 
 <p>
-Other stuff 
+Beyond this, I worked on projects covering a wide range of topics such as  
+<ul>
+<li> Imitation Learning for Versatile Behaviour  
+<li> Dynamics Modeling for Robotics 
+<li> Online Reinforcement Learning with a focus on Trust Regions 
+<li> Bayesian Deep Learning
+</ul>
+These works are published in venues such as NeurIPS, ICLR, CoRL, etc... 
 </p>
+
+<p>
+<a href="https://pbecker93.github.io/publications/">Here is a list of all my publications.</a>
+</p>
+
 
 <h2> Updates </h2>
 
