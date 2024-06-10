@@ -30,10 +30,10 @@ Here, I combine probabilistic state space models with deep learning to learn dyn
 <p>
 Beyond this, I worked on projects covering a wide range of topics such as  
 <ul>
-<li> Imitation Learning for Versatile Behaviour  
-<li> Dynamics Modeling for Robotics 
-<li> Online Reinforcement Learning with a focus on Trust Regions 
-<li> Bayesian Deep Learning
+<li> Imitation Learning for Versatile Behaviour   </li>
+<li> Dynamics Modeling for Robotics  </li>
+<li> Online Reinforcement Learning with a focus on Trust Regions  </li>
+<li> Bayesian Deep Learning  </li>
 </ul>
 These works are published in venues such as NeurIPS, ICLR, CoRL, etc... 
 </p>
