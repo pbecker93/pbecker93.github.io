@@ -7,6 +7,7 @@ venue: 'International Conference on Learning Representations (ICLR)'
 authors: 'Michael Volpp, Philipp Dahlinger, <b>Philipp Becker</b>, Christian Daniel, Gerhard Neumann'
 paperurl: 'https://openreview.net/forum?id=sb-IkS8DQw2'
 codeurl: 'https://github.com/pbecker93/vrkn'
+tag: "bdl"
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'

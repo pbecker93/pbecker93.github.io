@@ -30,10 +30,10 @@ Here, I combine probabilistic state space models with deep learning to learn dyn
 <p>
 Beyond this, I worked on projects covering a wide range of topics such as  
 <ul>
-<li> Imitation Learning for Versatile Behaviour   </li>
-<li> Dynamics Modeling for Robotics  </li>
-<li> Online Reinforcement Learning with a focus on Trust Regions  </li>
-<li> Bayesian Deep Learning  </li>
+<li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behaviour </a>    </li>
+<li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics Modeling for Robotics  </a>  </li>
+<li> <a href="https://pbecker93.github.io/mfrl">Online Reinforcement Learning with a focus on Trust Regions  </a>  </li>
+<li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>
 </ul>
 These works are published in venues such as NeurIPS, ICLR, CoRL, etc... 
 </p>

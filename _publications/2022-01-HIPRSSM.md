@@ -7,6 +7,7 @@ venue: 'International Conference on Learning Representations (ICLR)'
 authors: 'Vaisakh Shaj Kumar, D Büchler, R Sonker, <b>Philipp Becker</b>, Gerhard Neumann'
 paperurl: 'https://arxiv.org/pdf/2206.14697'
 codeurl: 'https://github.com/ALRhub/HiP-RSSM'
+tag: "dyn"
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'

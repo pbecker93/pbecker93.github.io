@@ -6,6 +6,7 @@ date: 2022-05-27
 venue: 'Robotics: Science and Systems (RSS)'
 authors: 'Moritz Reuss, Niels van Duijkeren, Robert Krug, <b>Philipp Becker</b>, Vaisakh Shaj, Gerhard Neumann'
 paperurl: 'https://arxiv.org/abs/2205.13804'
+tag: "dyn"
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
