@@ -32,7 +32,7 @@ Beyond this, I worked on projects covering a wide range of topics such as
 <ul>
 <li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behaviour </a>    </li>
 <li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics Modeling for Robotics  </a>  </li>
-<li> <a href="https://pbecker93.github.io/mfrl">Online Reinforcement Learning with a focus on Trust Regions  </a>  </li>
+<li> <a href="https://pbecker93.github.io/mfrl">Model-Free RL with a focus on Trust Regions  </a>  </li>
 <li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>
 </ul>
 These works are published in venues such as NeurIPS, ICLR, CoRL, etc... 
