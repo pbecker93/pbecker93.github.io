@@ -51,7 +51,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         
-        {% if post.paperurl and post.codeurl and post.ppurl %}
+        {% if page.paperurl and page.codeurl and page.ppurl %}
         <p> <a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.codeurl }}">Code</a> | <a href="{{ page.ppurl }}">Project Page</a> </p> 
         {% elsif page.paperurl and page.codeurl %}
         <p> <a href="{{ page.paperurl }}">Paper</a> | <a href="{{ page.codeurl }}">Code</a></p>
