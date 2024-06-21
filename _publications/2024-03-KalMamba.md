@@ -3,7 +3,7 @@ title: 'KalMamba: Towards Efficient Probabilistic State Space Models for RL unde
 collection: publications
 permalink: /publication/kalmamba
 date: 2024-06-19
-venue: 'Aligning Reinforcement Learning Experimentalists and Theorists Workshop @ ICML; Next Generation of Sequence Modeling Architectures Workshop @ ICML'
+venue: 'Aligning Reinforcement Learning Experimentalists and Theorists Workshop @ ICML; Next Generation of Sequence Modeling Architectures Workshop @ ICML; Training Agents with Foundation Models @ RLC'
 authors: ' <b>Philipp Becker</b>, Niklas Freymuth, Gerhard Neumann'
 ---
 
