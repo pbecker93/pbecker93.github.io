@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 <p>
-I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. Simultaneously, I am involved with the FZI Research Center for Information Technology, working towards establishing a new research group under Prof. Neumann's direction.
-
+I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. 
+During my PhD studies, I was involved with the FZI Research Center for Information Technology, working towards establishing a new research group under Prof. Neumann's direction from spring 2023 to summer 2024.
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
 Furthermore, I have a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
-
+<p>
+<p>
 I aim to complete my PhD by Spring 2025.
 </p>
+
+
 
 <h2> Reserach </h2>
 <p>
