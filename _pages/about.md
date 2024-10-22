@@ -13,7 +13,7 @@ I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of 
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
 Furthermore, I have a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
 
-I aim to complete my PhD by Spring 2025 and <b>am currently seeking internship opportunities.</b>
+I aim to complete my PhD by Spring 2025.
 </p>
 
 <h2> Reserach </h2>
@@ -31,7 +31,7 @@ Here, I combine probabilistic state space models with deep learning to learn dyn
 Beyond this, I worked on projects covering a wide range of topics such as  
 <ul>
 <li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behavior </a>    </li>
-<li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics Modeling for Robotics  </a>  </li>
+<li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics and Representation Learning for Robotics  </a>  </li>
 <li> <a href="https://pbecker93.github.io/mfrl">Model-Free RL with a Focus on Trust Region Methods  </a>  </li>
 <li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>
 </ul>
