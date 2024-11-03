@@ -14,12 +14,12 @@ Before my time at KIT, I worked with the Bosch Center for Artificial Intelligenc
 Furthermore, I have a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
 <p>
 <p>
-I aim to complete my PhD by Spring 2025.
+I am currently interning at the Samsung AI Center in Cambridge and aim to complete my PhD by Summer 2025.
 </p>
 
 
 
-<h2> Reserach </h2>
+<h2> Research </h2>
 <p>
 My research focuses on world models for Reinforcement Learning with multimodal and high-dimensional observations. 
 Here, I combine probabilistic state space models with deep learning to learn dynamics models and concise representations as published in: 
