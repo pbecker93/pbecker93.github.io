@@ -11,7 +11,7 @@ redirect_from:
 
 [Download PDF](https://pbecker93.github.io/files/cv_philipp_becker.pdf)
 
-
+<!--
 # Education
 
 ### Ph.D in Machine Learning
@@ -93,7 +93,9 @@ redirect_from:
 * **Robotics:** Mitsubishi PA10, KUKA LBR iiwa, Franka Emika Panda
 
 # Student Supervision
-I supervised > 20 Bachelor and Master Students during my time at the Karlsruhe Institute of Technology 
+I supervised > 25 Bachelor and Master Students during my time at the Karlsruhe Institute of Technology 
+*
+* Felix Ning 
 * Ralf Herp - Bachelor Thesis - Diffusion-based Imitation Learning for Contact Rich Manipulation
 * Erwin Müller - Master Thesis - Model-based Reinforcement Learning of Diverse Skills
 * Keven Sahin - Master Thesis in cooperation with Robert Bosch GmbH - Offline Reinforcement Learning for Hydraulic Excavator Control
@@ -114,7 +116,7 @@ I supervised > 20 Bachelor and Master Students during my time at the Karlsruhe I
 * Roman Freiberg - Bachelor Thesis - Actor-Critic Methods for Robotics
 * Niklas Freymuth - Master Thesis - Inverse Reinforcement Learning for Highly-Versatile Behavior
 * Carmen Eitel - Master Thesis - Deep Reinforcement Learning under Partial Observability using Kalman Filtering
-
+--->
 
 <!---
 Publications
