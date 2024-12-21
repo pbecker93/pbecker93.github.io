@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dynamics Learning for Robotics"
+title: "Representation and Dynamics Learning for Robotics"
 permalink: /dyn_learning/
 author_profile: true
 ---
