@@ -7,6 +7,7 @@ venue: 'Aligning Reinforcement Learning Experimentalists and Theorists Workshop 
 authors: ' <b>Philipp Becker</b>, Niklas Freymuth, Gerhard Neumann'
 featured: " " 
 paperurl: 'https://arxiv.org/abs/2406.15131'
+tag: "dyn"
 ---
 
 <p>

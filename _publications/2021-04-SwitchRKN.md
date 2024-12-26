@@ -6,6 +6,7 @@ date: 2021-11-16
 venue: 'Machine Learning for Autonomous Driving Workshop @ NeurIPS'
 authors: 'Giao Nguyen-Quynh, <b>Philipp Becker</b>, Chen Qiu, Maja Rudolph, Gerhard Neumann'
 paperurl: 'https://arxiv.org/abs/2111.08291'
+tag: "dyn"
 #codeurl: 'https://github.com/Onur4229/SVSL_LMOE'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
