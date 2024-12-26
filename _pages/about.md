@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 <p>
-I am currently pursuing a PhD in Machine Learning at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. 
-During my PhD studies, I was involved with the FZI Research Center for Information Technology, working towards establishing a new research group under Prof. Neumann's direction from spring 2023 to summer 2024.
+I am a machine learning researcher currently pursuing a PhD at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. 
+I focus on generative modeling and learning agents with applications in robotics and publish my work at conferences such as ICLR, ICML, NeurIPS, RLC, and CoRL. 
+During my PhD, I contributed to establishing a new research group at the FZI Research Center for Information Technology, working under the direction of Prof. Neumann. Here I participated in successful grant writing and an industry project.
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
-Furthermore, I have a Bachelor's degree in Computer Science and a Master's degree in Autonomous Systems (Computer Science) from the Technical University Darmstadt.
+Furthermore, I have a Master's degree in Autonomous Systems (Computer Science) from the Technical University of Darmstadt.
 <p>
+
 <p>
-I am currently interning at the Samsung AI Center in Cambridge and aim to complete my PhD by Summer 2025.
+I am currently interning at the Samsung AI Center in Cambridge where I work on generative AI for text to image applications and expect to graduate with my by Summer 2025.
 </p>
 
 
