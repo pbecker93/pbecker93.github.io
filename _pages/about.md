@@ -9,7 +9,7 @@ redirect_from:
 
 <p>
 I am a machine learning researcher currently pursuing a PhD at the Karlsruhe Institute of Technology (KIT), supervised by Prof. Gerhard Neumann. 
-I focus on generative modeling and learning agents with applications in robotics and publish my work at conferences such as ICLR, ICML, NeurIPS, RLC, and CoRL. 
+I focus on generative modeling, representation learning, and learning agents with applications in robotics and publish my work at conferences such as ICLR, ICML, NeurIPS, RLC, and CoRL. 
 During my PhD, I contributed to establishing a new research group at the FZI Research Center for Information Technology, working under the direction of Prof. Neumann. Here I participated in successful grant writing and an industry project.
 Before my time at KIT, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen for eight months.
 Furthermore, I have a Master's degree in Autonomous Systems (Computer Science) from the Technical University of Darmstadt.
@@ -40,8 +40,6 @@ Beyond this, I worked on projects covering a wide range of topics such as
 <li> <a href="https://pbecker93.github.io/mfrl">Model-Free RL with a Focus on Trust Region Methods  </a>  </li>
 <li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>
 </ul>
-These works are published in venues such as NeurIPS, ICLR, CoRL, etc... 
-</p>
 
 <p>
 <a href="https://pbecker93.github.io/publications/">Here is a list of all my publications.</a>
