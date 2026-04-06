@@ -53,6 +53,6 @@ Beyond this, I worked on projects covering a wide range of topics such as
           <strong>Nov 2024:</strong> Started a research internship at the Samsung AI Center in Cambridge, where I’ll focus on efficient Text-to-Image generation by including recent structured state space approaches into diffusion models.
       </li>
       <li style="margin-bottom: 10px;">
-          <strong>May 2024:</strong> New paper at RLC: <a href=https://pbecker93.github.io/publications/coral> Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL  </a>.
+          <strong>May 2024:</strong> New paper at RLC: <a href="https://pbecker93.github.io/publications/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL  </a>.
       </li>
   </ul>
