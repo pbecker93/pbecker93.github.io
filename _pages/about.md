@@ -9,11 +9,14 @@ redirect_from:
 
 <p>
 I am a Postdoctoral Researcher at Meta (FAIR) in Paris. I completed my PhD (Dr.-Ing.) at the Karlsruhe Institute of Technology (KIT) in 2025, supervised by Prof. Gerhard Neumann.
-
+</p>
+<p>
 My research focuses on the intersection of Reinforcement Learning, Generative Modeling, and Representation Learning, specifically applied to Robotics. I regularly contribute to the ML community through publications at venues such as ICLR, ICML, NeurIPS, RLC, and CoRL.
-
+</p>
+<p>
 During my PhD, I was a Research Intern at the Samsung AI Center in Cambridge, working on text-to-image generative AI. I also worked at the FZI Research Center for Information Technology, where I was involved in the setup of a new research group and participated in grant writing and industry projects.
-
+</p>
+<p>
 Before my doctoral studies, I worked with the Bosch Center for Artificial Intelligence and the University of Tübingen. I hold a Master’s degree in Autonomous Systems from the Technical University of Darmstadt.
 </p>
 
