@@ -53,7 +53,7 @@ Beyond this, I worked on projects covering a wide range of topics such as
           <strong>Jan 2026:</strong> Excited to announce that our paper <a href="https://pbecker93.github.io/publication/troll"> TROLL: Trust Regions improve Reinforcement Learning for Large Language Models</a> which I wrote in the last days of my PhD with Niklas Freymuth, got accepted as an Oral at the  International Conference on Learning Representations (ICLR). See you all in Rio! 
       </li>
       <li style="margin-bottom: 10px;">
-          <strong>October 2025:</strong> Big month: I haven not only successfully finished my PhD at KIT but also moved to Paris to start my new position as a postdoctoral researcher at Meta, FAIR. 
+          <strong>October 2025:</strong> Big month: I have not only successfully finished my PhD at KIT but also moved to Paris to start my new position as a postdoctoral researcher at Meta, FAIR. 
       </li>
       <li style="margin-bottom: 10px;">
           <strong>June 2025:</strong> Excited to announce that the my <a href="https://pbecker93.github.io/publication/edit"> internship work </a> was accepted at the International Conference on Computer Vision (ICCV).
