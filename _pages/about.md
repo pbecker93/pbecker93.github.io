@@ -50,9 +50,15 @@ Beyond this, I worked on projects covering a wide range of topics such as
 
   <ul style="list-style-type: none; padding-left: 0;">
       <li style="margin-bottom: 10px;">
+          <strong>June 2025:</strong> Excited to announce that the my <a href="https://pbecker93.github.io/publication/edit"> internship work </a> was accepted at the International Conference on Computer Vision (ICCV).
+      </li>
+        <li style="margin-bottom: 10px;">
+          <strong>April 2025:</strong> I am currently wrapping up my internship at the Samsung AI Center in Cambridge, and will visit ICLR 2025 in Singapore on the way back from the UK to Germany.
+      </li>
+      <li style="margin-bottom: 10px;">
           <strong>Nov 2024:</strong> Started a research internship at the Samsung AI Center in Cambridge, where I’ll focus on efficient Text-to-Image generation by including recent structured state space approaches into diffusion models.
       </li>
       <li style="margin-bottom: 10px;">
-          <strong>May 2024:</strong> New paper at RLC: <a href="https://pbecker93.github.io/publications/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL  </a>.
+          <strong>May 2024:</strong> New paper at the first Reinforcement Learning Conference: <a href="https://pbecker93.github.io/publication/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL  </a>. Looking forward to the conference at the University of Massachusetts, Amherst.
       </li>
   </ul>
