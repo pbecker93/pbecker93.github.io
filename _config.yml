@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Philipp Becker"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning PhD Student"
-  location         : "Karlsruhe, Germany"
-  employer         : "Karlsruhe Institute of Technology"
+  bio              : "Machine Learning Researcher"
+  location         : "Paris, France"
+  employer         : "Meta, Fundamental Artificial Intelligence Research (FAIR)"
   uri              : # URL
   email            : "philippbecker93@googlemail.com" 
 
