@@ -26,23 +26,11 @@ Before my doctoral studies, I worked with the Bosch Center for Artificial Intell
 
 <h2> Research </h2>
 <p>
-My research focuses on world models for Reinforcement Learning with multimodal and high-dimensional observations. 
-Here, I combine probabilistic state space models with deep learning to learn dynamics models and concise representations as published in: 
-<ul>
-<li> <a href="https://pbecker93.github.io/publication/coral">Combining Reconstruction and Contrastive Methods for Multimodal Representations in RL (<i>RLC 2024</i>) </a></li>
-<li> <a href="https://pbecker93.github.io/publication/vrkn">On Uncertainty in Deep State Space Models for Model-Based Reinforcement Learning (<i>TMLR 2022</i>)</a> </li>
-<li> <a href="https://pbecker93.github.io/publication/rkn">Recurrent Kalman Networks: Factorized Inference in High-Dimensional Deep Feature Spaces (<i>ICML 2019</i>)</a> </li>
-</ul>
+My research focuses on developing mathematically grounded algorithms for embodied artificial intelligence and reinforcement learning. I am particularly interested in how agents can learn robust, distraction-resistant representations from complex, multimodal data. By leveraging unsupervised learning paradigms, latent-predictive world models, and contrastive methods, my goal is to bridge the gap between high-capacity representation learning and real-world robotic control. A core part of this vision involves exploring RL-first approaches to Vision-Language-Action (VLA) models, aiming to help agents generalize more effectively across diverse manipulation and navigation tasks.
 </p>
-
 <p>
-Beyond this, I worked on projects covering a wide range of topics such as  
-<ul>
-<li> <a href="https://pbecker93.github.io/versatile_il">Imitation Learning for Versatile Behavior </a>    </li>
-<li> <a href="https://pbecker93.github.io/dyn_learning">Dynamics and Representation Learning for Robotics  </a>  </li>
-<li> <a href="https://pbecker93.github.io/mfrl">Model-Free RL with a Focus on Trust Region Methods  </a>  </li>
-<li> <a href="https://pbecker93.github.io/bdl"> Bayesian Deep Learning </a> </li>
-</ul>
+Algorithmically, my work lies at the intersection of probabilistic modeling, reinforcement learning, and generative AI. In the domain of sequence modeling, I have explored ways to build scalable, uncertainty-aware state-space models—such as combining Kalman Networks with modern architectures like Mamba—to better handle high-dimensional, noisy time-series data. I also apply these principled optimization techniques to broader machine learning challenges. This includes developing differentiable trust-region projections to improve the stability and sample efficiency of LLM alignment (RLVF), as well as designing efficient attention mechanisms for diffusion transformers. Ultimately, my goal is to design algorithms that are theoretically sound, computationally efficient, and capable of scaling to complex, real-world systems.
+</p>
 
 <p>
 <a href="https://pbecker93.github.io/publications/">Here is a list of all my publications.</a>
